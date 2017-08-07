@@ -54,7 +54,7 @@ Job Complete!!
 
 ```
 
-After running that command, there will be the two CSV files converted to xlsx files in the ExcelOutput directory. Based off the configuration in the obfuscate_data.json file, the USER_ID, FIRSTNAME, and LASTNAME fields should be masked using generated data located in the same configuration file!
+After running that command (of course modify the file names to suit your needs), there will be the two CSV files converted to xlsx files in the ExcelOutput directory. Based off the configuration in the obfuscate_data.json file, the USER_ID, FIRSTNAME, and LASTNAME fields should be masked using generated data located in the same configuration file!
 
 # TODO:
 ---
