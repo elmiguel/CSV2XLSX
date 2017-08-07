@@ -48,6 +48,6 @@ After running that command, there will be the two CSV files converted to xlsx fi
 
 # TODO:
 ---
-[] Add support for connecting to a Database: SQLAlchemy
-[] Add local storage: Mongo DB.
-[] Add a more flexible configuration spec: Suggestions Welcome!
+- [ ] Add support for connecting to a Database: SQLAlchemy
+- [ ] Add local storage: Mongo DB.
+- [ ] Add a more flexible configuration spec: Suggestions Welcome!
