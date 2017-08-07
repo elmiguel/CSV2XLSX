@@ -3,6 +3,16 @@
 
 This small CLI just takes in CSV files and based off some configuration settings, obfucate data fields and creates xlsx files.
 
+## Requirements
+
+- Python 3.5 or higher
+- openpyxl for creating Excel Documents
+- docopt for creating the CLI help screen and CLI base object
+```
+pip install openpyxl docopt
+```
+
+
 Usage:
 ```
 Usage:
